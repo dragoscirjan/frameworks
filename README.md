@@ -1,5 +1,22 @@
 # frameworks
 
+## PHP
+
+| Framework | Docs | API Docs |   |   |
+|---|---|---|---|---|
+| [Laravel](https://laravel.com/) | [√](https://laravel.com/docs/5.7) | [√](https://laravel.com/api/5.7/) |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+## Python
+
+| Framework | Docs | API Docs |   |   |
+|---|---|---|---|---|
+| [Laravel](https://laravel.com/) | [√](https://laravel.com/docs/5.7) | [√](https://laravel.com/api/5.7/) |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+
 ## Distributed Tracing
 
 - [OpenCensus](https://opencensus.io)
