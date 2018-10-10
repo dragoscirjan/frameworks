@@ -27,4 +27,10 @@
 
 ## JavaScript
 
+| Framework | Docs | API Docs |   |   |
+|---|---|---|---|---|
+| [NextJs](https://nextjs.org/) |  |  |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 https://readthedocs.org/
