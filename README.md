@@ -30,7 +30,7 @@
 | Framework | Docs | API Docs |   |   |
 |---|---|---|---|---|
 | [NextJs](https://nextjs.org/) |  |  |   |   |
-|   |   |   |   |   |
+| [Flutter](https://flutter.io/) |   |   |   |   |
 |   |   |   |   |   |
 
 https://readthedocs.org/
