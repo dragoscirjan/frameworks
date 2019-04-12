@@ -8,6 +8,7 @@
 * https://github.com/census-ecosystem
 * https://github.com/census-instrumentation
 * https://github.com/opencensus-integrations
+* https://github.com/GoogleCloudPlatform/microservices-demo
 
 ### Open Tracing
 
