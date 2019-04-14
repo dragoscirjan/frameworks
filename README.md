@@ -16,10 +16,6 @@
 |   |   |   |   |   |
 |   |   |   |   |   |
 
-* [Gateways](gateways.dm)
-* [Distributed Tracing](distributed-tracing.md)
-* [Proxies](proxies.md)
-
 ## JavaScript
 
 | Framework | Docs | API Docs |   |   |
@@ -27,6 +23,10 @@
 | [NextJs](https://nextjs.org/) |  |  |   |   |
 | [Flutter](https://flutter.io/) |   |   |   |   |
 |   |   |   |   |   |
+
+* [Gateways, Load Balancers, Proxies](gws-lbs-proxies.md)
+* [Distributed Tracing](distributed-tracing.md)
+
 
 https://readthedocs.org/
 https://keepachangelog.com/en/1.0.0/
