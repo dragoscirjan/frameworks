@@ -1,5 +1,9 @@
 # frameworks
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMMN8JPLVAUR4&source=url)
+
+
+
 ## Git
 
 * [Git Quick Stats](https://github.com/arzzen/git-quick-stats)
