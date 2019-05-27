@@ -4,8 +4,8 @@
 [![HitCount](http://hits.dwyl.io/dragoscirjan/frameworks.svg)](http://hits.dwyl.io/dragoscirjan/frameworks)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dragoscirjan/frameworks/issues)
 
-[![TravisCI](https://travis-ci.org/dragoscirjan/frameworks.svg?branch=master)](https://travis-ci.org/dragoscirjan/frameworks)
-[![CircleCI](https://circleci.com/gh/dragoscirjan/frameworks.svg?style=shield)](https://circleci.com/gh/dragoscirjan/frameworks)
+<!-- [![TravisCI](https://travis-ci.org/dragoscirjan/frameworks.svg?branch=master)](https://travis-ci.org/dragoscirjan/frameworks)
+[![CircleCI](https://circleci.com/gh/dragoscirjan/frameworks.svg?style=shield)](https://circleci.com/gh/dragoscirjan/frameworks) -->
 
 [![Donate to this project using Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://patreon.com/dragoscirjan)
 [![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMMN8JPLVAUR4&source=url)
