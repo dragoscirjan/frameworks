@@ -21,6 +21,15 @@
 [![Buy an item on our wishlist for us](https://img.shields.io/badge/wishlist-donate-yellow.svg)](https://dragoscirjan.me/wishlist) -->
 
 
+## Console
+
+| Framework | Language | Docs | API Docs |   |
+|---|---|---|---|---|
+| [Open CLI](http://oclif.io/) | [NodeJs](https://nodejs.org/) | [√](https://oclif.io/docs/introduction) | [√](https://oclif.io/docs/commands) |   |
+| [Symfony/Console](https://click.palletsprojects.com/) | [PHP](https://php.net/) | [√](https://symfony.com/doc/current/components/console.html) | [√](https://github.com/symfony/symfony/blob/3.1/src/Symfony/Component/Console/Application.php) |   |
+| [Cement](https://builtoncement.com/) | [Python](https://www.python.org/) | [√](https://docs.builtoncement.com/) | [√](https://cement.readthedocs.io/en/3.0/) |   |
+| [Click](https://click.palletsprojects.com/) | [Python](https://www.python.org/) | [√](https://click.palletsprojects.com/en/7.x/quickstart/) | [√](https://click.palletsprojects.com/en/7.x/api/) |   |
+|   |   |   |   |   |
 
 
 ## Git
@@ -51,7 +60,7 @@
 | [Flutter](https://flutter.io/) |   |   |   |   |
 |   |   |   |   |   |
 
-## Themese
+## Themes
 
 | Framework | Docs | API Docs |   |   |
 |---|---|---|---|---|
