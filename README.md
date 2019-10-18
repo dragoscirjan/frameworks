@@ -128,6 +128,16 @@ frameworks
 ### Sources
 * https://www.javascriptstuff.com/state-managers/
 
+                                 |                                   |                                   |     |     |
+
+# Private Repositories
+
+| Framework                      | Docs | API Docs |     |     |
+| ------------------------------ | ---- | -------- | --- | --- |
+| [Nexus](https://www.sonatype.com/product-nexus-repository)  |      |          |     |     |
+| [Verdacio](https://verdaccio.org) |      |          |     |     |
+| [GemFury](https://gemfury.com)                               |      |          |     |     |
+| [Sinopia](https://github.com/rlidwka/sinopia) | |||||
 
 https://readthedocs.org/
 https://keepachangelog.com/en/1.0.0/
