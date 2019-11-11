@@ -147,3 +147,5 @@ https://readthedocs.org/
 https://keepachangelog.com/en/1.0.0/
 
 https://smallpdf.com/word-to-pdf
+
+https://sethrobertson.github.io/GitFixUm/fixup.html
