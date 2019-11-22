@@ -8,10 +8,14 @@ frameworks
 <!-- [![TravisCI](https://travis-ci.org/dragoscirjan/frameworks.svg?branch=master)](https://travis-ci.org/dragoscirjan/frameworks)
 [![CircleCI](https://circleci.com/gh/dragoscirjan/frameworks.svg?style=shield)](https://circleci.com/gh/dragoscirjan/frameworks) -->
 
-<!-- [![Donate to this project using Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://patreon.com/dragoscirjan) -->
-[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMMN8JPLVAUR4&source=url)
+<!-- [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=glasswingjs_config&metric=alert_status)](https://sonarcloud.io/dashboard?id=glasswingjs_config) 
+ [![SonarCloud Coverage](https://sonarcloud.io/api/project_badges/measure?project=glasswingjs_config&metric=coverage)](https://sonarcloud.io/component_measures/metric/coverage/list?id=glasswingjs_config)
+ [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=glasswingjs_config&metric=bugs)](https://sonarcloud.io/component_measures/metric/reliability_rating/list?id=glasswingjs_config)
+ [![SonarCloud Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=glasswingjs_config&metric=vulnerabilities)](https://sonarcloud.io/component_measures/metric/security_rating/list?id=glasswingjs_config) -->
 
-<!-- [![Donate to this project using Flattr](https://img.shields.io/badge/flattr-donate-yellow.svg)](https://flattr.com/profile/balupton)
+<!-- [![Donate to this project using Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://patreon.com/dragoscirjan)
+[![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMMN8JPLVAUR4&source=url)
+[![Donate to this project using Flattr](https://img.shields.io/badge/flattr-donate-yellow.svg)](https://flattr.com/profile/balupton)
 [![Donate to this project using Liberapay](https://img.shields.io/badge/liberapay-donate-yellow.svg)](https://liberapay.com/dragoscirjan)
 [![Donate to this project using Thanks App](https://img.shields.io/badge/thanksapp-donate-yellow.svg)](https://givethanks.app/donate/npm/badges)
 [![Donate to this project using Boost Lab](https://img.shields.io/badge/boostlab-donate-yellow.svg)](https://boost-lab.app/dragoscirjan/badges)
@@ -128,8 +132,20 @@ frameworks
 ### Sources
 * https://www.javascriptstuff.com/state-managers/
 
+                                 |                                   |                                   |     |     |
+
+# Private Repositories
+
+| Framework                      | Docs | API Docs |     |     |
+| ------------------------------ | ---- | -------- | --- | --- |
+| [Nexus](https://www.sonatype.com/product-nexus-repository)  |      |          |     |     |
+| [Verdacio](https://verdaccio.org) |      |          |     |     |
+| [GemFury](https://gemfury.com)                               |      |          |     |     |
+| [Sinopia](https://github.com/rlidwka/sinopia) | |||||
 
 https://readthedocs.org/
 https://keepachangelog.com/en/1.0.0/
 
 https://smallpdf.com/word-to-pdf
+
+https://sethrobertson.github.io/GitFixUm/fixup.html
