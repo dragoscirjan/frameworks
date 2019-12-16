@@ -119,7 +119,7 @@ frameworks
 
 ## JavaScript/TypeScript
 
-| Framework                                                   | Docs                                                   | API Docs                                            |     |
+| Framework                                                   | Docs                                                   | API Docs                                            | Tutorials    |
 | ----------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------- | --- |
 | [Redux](https://redux.js.org/)                              | [√](https://redux.js.org/introduction/getting-started) | [√](https://redux.js.org/api/api-reference)         |     |
 | [Vuex](https://vuex.vuejs.org/)                             | [√](https://vuex.vuejs.org/guide/)                     | [√](https://vuex.vuejs.org/api/)                    |     |
@@ -127,7 +127,9 @@ frameworks
 | [Redux-Saga](https://redux-saga.js.org/)                    | [√](https://redux-saga.js.org/docs/introduction/       | [√](https://redux-saga.js.org/docs/api/)            |     |
 | [Redux-React](https://redux.js.org/basics/usage-with-react) |                                                        |                                                     |     |
 | [Flux](http://facebook.github.io/flux/)                     | [√](http://facebook.github.io/flux/docs/overview)      | [√](http://facebook.github.io/flux/docs/dispatcher) |     |
+| Angular                                                     |                                                        |                                                     | [Codevolution - Angular 8 Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1)    |
 |                                                             |                                                        |                                                     |     |
+
 
 ### Sources
 * https://www.javascriptstuff.com/state-managers/
