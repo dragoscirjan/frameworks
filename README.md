@@ -130,11 +130,38 @@ frameworks
 | Angular                                                     |                                                        |                                                     | [Codevolution - Angular 8 Tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=1)    |
 |                                                             |                                                        |                                                     |     |
 
-
 ### Sources
 * https://www.javascriptstuff.com/state-managers/
 
-                                 |                                   |                                   |     |     |
+
+# Distributed Unique IDs
+
+## JavaScript/TypeScript
+
+* https://github.com/opentracing
+* https://github.com/census-instrumentation
+* https://github.com/openzipkin
+
+### Sources
+
+* https://discordapp.com/developers/docs/reference#snowflakes
+* https://www.callicoder.com/distributed-unique-id-sequence-number-generator
+
+
+# Distributed Tracing
+
+* https://github.com/s-thom/extended-snowflake
+* https://github.com/utkarsh-pro/node-snowflake
+* https://www.npmjs.com/package/flake-idgen
+
+### Sources
+
+* https://opencensus.io/
+* https://opentracing.io/
+* https://www.jaegertracing.io/
+* https://zipkin.io/
+* https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1
+
 
 # Private Repositories
 
