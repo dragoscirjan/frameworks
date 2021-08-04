@@ -19,6 +19,10 @@
 * https://opentracing.io
 * https://github.com/opentracing
 
+### Open Telemetry
+
+* https://opentelemetry.io/
+
 ### Zipkin
 
 * https://zipkin.io/pages/tracers_instrumentation.html
