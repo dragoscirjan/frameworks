@@ -23,6 +23,7 @@
 
 * [JFrog](https://jfrog.com/)
 * [GemFury](https://gemfury.com)
+* [Harbor](https://goharbor.io)
 * [Nexus](https://www.sonatype.com/product-nexus-repository)
 * [Sinopia](https://github.com/rlidwka/sinopia)
 * [Verdacio](https://verdaccio.org)
