@@ -1,16 +1,16 @@
 # JavaScript Frameworks
 
+<!-- TOC -->
+
 - [JavaScript Frameworks](#javascript-frameworks)
   - [Web](#web)
     - [GraphQL](#graphql)
-    - [React](#react)
     - [State Managers](#state-managers)
-    - [Theming](#theming)
-      - [React](#react-1)
   - [Backend](#backend)
   - [Web Servers](#web-servers)
   - [Command Line](#command-line)
 
+<!-- /TOC -->
 ## Web
 
 [State of JS Web Frameworks in 2020](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
@@ -18,7 +18,7 @@
 * [Angular](https://angular.io/)
 * [Aurelia](https://aurelia.io/)
 * [Ember](https://emberjs.com/)
-* [React](https://reactjs.org/)
+* [React](js/react.md)
 * [Svelte](https://svelte.dev/)
 * [Vue](https://vuejs.org/)
 
@@ -27,24 +27,15 @@
 * [Apollo](https://www.npmjs.com/package/@apollo/client)
 * [Relay](https://relay.dev/)
 
-### React
-
-* [Components Story Book](https://storybook.js.org/)
-
 ### State Managers
-* [Flux](http://facebook.github.io/flux/)
-* [MobX](https://mobx.js.org/)
-* [NrRx](https://ngrx.io/)
+* [Dotto.x](https://github.com/dottostack/dotto.x) (React, Svelte, VanilaJs, Vue)
+* [Dva](https://github.com/dvajs/dva) (Others, React)
+* [Flux](http://facebook.github.io/flux/) (React)
+* [MobX](https://mobx.js.org/) (React)
+* [NgRx](https://ngrx.io/) (Angular)
 * [Redux](https://redux.js.org/) ([Redux Toolkit](https://redux-toolkit.js.org/), [Redux-Saga](https://redux-saga.js.org/))
+* [Recoil](hhttps://recoiljs.org/) for React
 * [Vuex](https://vuex.vuejs.org/) for VueJs
-
-### Theming
-
-#### React
-
-* [Ant](https://ant.design/)
-* [MaterialUi](https://material-ui.com/)
-  * [Minimals](https://minimals.cc/)
 
 ## Backend
 
