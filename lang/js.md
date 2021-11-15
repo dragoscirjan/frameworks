@@ -61,6 +61,7 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 * [rollup](https://rollupjs.org/guide/en/)
 * [rome](https://rome.tools/)
 * [tsc](http://typescriptlang.org/)
+* [swc](https://swc.rs/)
 * [webpack](https://webpack.js.org/)
 
 <!-- ## JavaScript
