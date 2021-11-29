@@ -58,6 +58,7 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 * [babel](https://babeljs.io/)
 * [coffee](https://coffeescript.org/)
 * [esbuild](https://esbuild.github.io/)
+* [parcel](https://parceljs.org/)
 * [rollup](https://rollupjs.org/guide/en/)
 * [rome](https://rome.tools/)
 * [tsc](http://typescriptlang.org/)
