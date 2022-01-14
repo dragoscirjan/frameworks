@@ -12,8 +12,8 @@
 
 ## Per Language
 
-<!-- * [JavaScript/TypeScript](lang/javascript.md) -->
 * [JavaScript/TypeScript](lang/js.md)
+* [Rust](lang/rust.md)
 
 ## ...
 
@@ -34,6 +34,12 @@
 ## IDEs
 
 * [Visual Studio Code](ides/vscode.md)
+
+
+
+## Read
+
+* [https://quickref.me](https://quickref.me)
 
 ## Watch
 
