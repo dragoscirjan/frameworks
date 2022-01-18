@@ -61,6 +61,16 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 * [Open CLI](http://oclif.io/)
 * [Vorpal](https://github.com/dthree/vorpal)
 
+## Testing
+
+### Unit
+
+### E2E, Api
+
+* [Cypress](https://www.cypress.io/)
+* [Playwright](https://playwright.dev/)
+* [TestCafe](https://testcafe.io/)
+
 ## Transpilers & Bundlers
 
 * [babel](https://babeljs.io/)
