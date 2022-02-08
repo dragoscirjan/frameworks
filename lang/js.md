@@ -84,6 +84,12 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 * [swc](https://swc.rs/)
 * [webpack](https://webpack.js.org/)
 
+## Interesting Readables
+
+* [State of Js 2020](https://2020.stateofjs.com/en-US/)
+* [Rising Stars 2020](https://risingstars.js.org/2020/en)
+* [Rising Stars 2021](https://risingstars.js.org/2021/en)
+
 <!-- ## JavaScript
 
 | Framework                      | Docs | API Docs |     |     |
