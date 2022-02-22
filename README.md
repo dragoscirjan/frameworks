@@ -40,7 +40,7 @@
 ## Read
 
 * [quickref.me](https://quickref.me)
-* [testautomationu.applitools.com][https://testautomationu.applitools.com/]
+* [testautomationu.applitools.com](https://testautomationu.applitools.com/)
 
 ## Watch
 
