@@ -53,6 +53,7 @@
   * [Clean Code - 5](https://www.youtube.com/watch?v=sn0aFEMVTpA)
   * [Clean Code - 6](https://www.youtube.com/watch?v=l-gF0vDhJVI)
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by Uncle Bob
+* [Test Automation](https://testautomationu.applitools.com/)
 
 <!-- https://readthedocs.org/
 https://keepachangelog.com/en/1.0.0/
