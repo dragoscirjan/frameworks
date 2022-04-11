@@ -15,10 +15,10 @@
 
 ## Monorepo
 
-- lerna
-- Lage
-- yarn workspaces
-- turborepo
+- [lerna](https://lerna.js.org/#getting-started)
+- [lage](https://microsoft.github.io/lage/docs/Introducing%20Lage/Overview)
+- [turborepo](https://turborepo.org/docs/getting-started)
+- [yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/)
 
 ## Web
 
