@@ -7,6 +7,9 @@
   - [...](#)
   - [Private Repositories](#private-repositories)
   - [IDEs](#ides)
+  - [Auth](#auth)
+  - [Read](#read)
+  - [Watch](#watch)
 
 <!-- /TOC -->
 
@@ -19,8 +22,8 @@
 
 * [Gateways, Load Balancers, Proxies](gws-lbs-proxies.md)
 * [Distributed Tracing](distributed-tracing.md)
+* [Automation](automation.md)
 * [free-for.dev](https://free-for.dev/)
-
 
 ## Private Repositories
 
@@ -31,17 +34,19 @@
 * [Sinopia](https://github.com/rlidwka/sinopia)
 * [Verdacio](https://verdaccio.org)
 
-
 ## IDEs
 
 * [Visual Studio Code](ides/vscode.md)
 
+## Auth
 
+* [KeyCloak](https://www.keycloak.org/)
 
 ## Read
 
 * [quickref.me](https://quickref.me)
 * [testautomationu.applitools.com](https://testautomationu.applitools.com/)
+* [roadmap.sh](https://roadmap.sh/)
 
 ## Watch
 

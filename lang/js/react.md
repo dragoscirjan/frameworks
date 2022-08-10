@@ -10,6 +10,7 @@
   - [Components](#components)
   - [State Managers](#state-managers)
   - [Theming](#theming)
+  - [Flavors](#flavors)
 
 <!-- /TOC -->
 
@@ -32,3 +33,11 @@
 * [Ant](https://ant.design/)
 * [MaterialUi](https://material-ui.com/)
   * [Minimals](https://minimals.cc/)
+
+
+## Flavors
+
+* [Ice](https://ice.work/)
+* [Next](https://nextjs.org/)
+* [Umi](https://umijs.org/docs/introduce/introduce)
+* [Vite](https://vitejs.dev/guide/)
