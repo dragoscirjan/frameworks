@@ -9,32 +9,40 @@
     - [State Managers](#state-managers)
   - [Backend](#backend)
   - [Web Servers](#web-servers)
+  - [Cross-Platform Desktop Apps](#cross-platform-desktop-apps)
   - [Command Line](#command-line)
   - [Testing](#testing)
-    - [Unit](#unit)
-    - [E2E, Api](#e2e-api)
-  - [Transpilers & Bundlers](#transpilers--bundlers)
+    - [E2e](#e2e)
+  - [Transpilers \& Bundlers](#transpilers--bundlers)
   - [Interesting Readables](#interesting-readables)
   - [Runtime](#runtime)
+  - [Components](#components)
+  - [Theming](#theming)
+  - [Flavors](#flavors)
 
 <!-- /TOC -->
 
 ## Monorepo
 
-- [lerna](https://lerna.js.org/#getting-started)
-- [lage](https://microsoft.github.io/lage/docs/Introducing%20Lage/Overview)
-- [turborepo](https://turborepo.org/docs/getting-started)
-- [yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/)
+- [Lerna](https://lerna.js.org/#getting-started)
+- [Lage](https://microsoft.github.io/lage/docs/Introducing%20Lage/Overview)
+- [Turborepo](https://turborepo.org/docs/getting-started)
+- [Yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/)
 
 ## Web
 
-[State of JS Web Frameworks in 2020](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
-
 * [Angular](https://angular.io/)
 * [Aurelia](https://aurelia.io/)
+* [Alpine.js](https://alpinejs.dev/)
 * [Ember](https://emberjs.com/)
-* [React](js/react.md)
+* [Gatsby](https://www.gatsbyjs.com/)
+* [LitElement](https://lit.dev/)
+* [Meteor](https://www.meteor.com/)
+* [Polymer](https://polymer-library.polymer-project.org/)
+* [React](https://reactjs.org/)
 * [Svelte](https://svelte.dev/)
+* [Stencil.js](https://stenciljs.com/)
+* [Stimulus](https://stimulus.hotwired.dev/)
 * [Vue](https://vuejs.org/)
 
 ### GraphQL
@@ -43,6 +51,7 @@
 * [Relay](https://relay.dev/)
 
 ### State Managers
+
 * [Dotto.x](https://github.com/dottostack/dotto.x) (React, Svelte, VanilaJs, Vue)
 * [Dva](https://github.com/dvajs/dva) (Others, React)
 * [Flux](http://facebook.github.io/flux/) (React)
@@ -56,7 +65,15 @@
 
 ## Web Servers
 
-https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
+* [Express.js](https://expressjs.com/)
+* [Fastify](https://www.fastify.io/)
+* [Koa.js](https://koajs.com/)
+* [Nest.js](https://nestjs.com/)
+
+## Cross-Platform Desktop Apps
+
+* [Electron.js](https://www.electronjs.org/)
+* [Tauri](https://tauri.app/)
 
 ## Command Line
 
@@ -69,12 +86,16 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 
 ## Testing
 
-### Unit
+* [Mocha](https://mochajs.org/)
+* [Jest](https://jestjs.io/)
+* [Vitest](https://vitest.dev/)
+* [Testing Library](https://testing-library.com/)
 
-### E2E, Api
+### E2e
 
 * [Cypress](https://www.cypress.io/)
 * [Playwright](https://playwright.dev/)
+* [Storybook](https://storybook.js.org/)
 * [TestCafe](https://testcafe.io/)
 
 ## Transpilers & Bundlers
@@ -93,6 +114,15 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 ## Interesting Readables
 
 * [State of Js 2020](https://2020.stateofjs.com/en-US/)
+  * [State of JS Web Frameworks in 2020](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
+  * [State of JS Web Servers in 2020](https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/)
+* [State of Js 2021](https://2021.stateofjs.com/en-US/)
+* [State of Js 2022](https://2021.stateofjs.com/en-US/)
+  * [State of JS Build Tools in 2022](https://2022.stateofjs.com/en-US/libraries/build-tools/)
+  * [State of JS Mobile & Desktop in 2022](https://2022.stateofjs.com/en-US/libraries/mobile-desktop/)
+  * [State of JS Monorepo in 2022](https://2022.stateofjs.com/en-US/libraries/monorepo-tools/)
+  * [State of JS Web Frameworks in 2022](https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/)
+  * [State of JS Testing in 2022](https://2022.stateofjs.com/en-US/libraries/testing/)
 * [Rising Stars 2020](https://risingstars.js.org/2020/en)
 * [Rising Stars 2021](https://risingstars.js.org/2021/en)
 
@@ -101,6 +131,23 @@ https://2020.stateofjs.com/en-US/technologies/back-end-frameworks/
 * [Bun](https://bun.sh/)
 * [Deno]()
 * [Node]()
+
+## Components
+
+* [Components Story Book](https://storybook.js.org/)
+
+## Theming
+
+* [Ant](https://ant.design/)
+* [MaterialUi](https://material-ui.com/)
+  * [Minimals](https://minimals.cc/)
+
+## Flavors
+
+* [Ice](https://ice.work/)
+* [Next](https://nextjs.org/)
+* [Umi](https://umijs.org/docs/introduce/introduce)
+* [Vite](https://vitejs.dev/guide/)
 
 <!-- ## JavaScript
 
