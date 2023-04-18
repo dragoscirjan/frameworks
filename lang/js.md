@@ -3,6 +3,7 @@
 <!-- TOC -->
 
 - [JavaScript Frameworks](#javascript-frameworks)
+  - [Design Systems](#design-systems)
   - [Monorepo](#monorepo)
   - [Web](#web)
     - [GraphQL](#graphql)
@@ -22,10 +23,20 @@
 
 <!-- /TOC -->
 
+## Design Systems
+
+- [Primer (Github Design System)](https://github.com/primer/react)
+
+- [Storybook](https://storybook.js.org/)
+
 ## Monorepo
 
 - [Lerna](https://lerna.js.org/#getting-started)
 - [Lage](https://microsoft.github.io/lage/docs/Introducing%20Lage/Overview)
+- [Npm workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
+- [Nx](https://nx.dev/)
+- [Pnpm workspaces](https://pnpm.js.org/en/workspaces)
+- [Rush](https://rushjs.io/)
 - [Turborepo](https://turborepo.org/docs/getting-started)
 - [Yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/)
 
