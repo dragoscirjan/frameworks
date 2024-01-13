@@ -45,6 +45,7 @@
 ## Read
 
 * [quickref.me](https://quickref.me)
+* [refactoring.guru](https://refactoring.guru/)
 * [testautomationu.applitools.com](https://testautomationu.applitools.com/)
 * [roadmap.sh](https://roadmap.sh/)
 
