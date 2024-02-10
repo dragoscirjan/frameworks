@@ -136,6 +136,7 @@
   * [State of JS Testing in 2022](https://2022.stateofjs.com/en-US/libraries/testing/)
 * [Rising Stars 2020](https://risingstars.js.org/2020/en)
 * [Rising Stars 2021](https://risingstars.js.org/2021/en)
+* [TypeHero](https://typehero.dev/)
 
 ## Runtime 
 
