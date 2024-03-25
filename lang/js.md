@@ -112,15 +112,15 @@
 ## Transpilers & Bundlers
 
 * [babel](https://babeljs.io/)
-* [coffee](https://coffeescript.org/)
-* [swc](https://github.com/swc-project/swc)
-* [esbuild](https://esbuild.github.io/)
-* [parcel](https://parceljs.org/)
-* [rollup](https://rollupjs.org/guide/en/)
-* [rome](https://rome.tools/)
-* [tsc](http://typescriptlang.org/)
-* [swc](https://swc.rs/)
-* [webpack](https://webpack.js.org/)
+* [coffee](https://coffeescript.org)
+* [esbuild](https://esbuild.github.io)
+* [parcel](https://parceljs.org)
+* [rolldown](https://rolldown.rs)
+* [rollup](https://rollupjs.org)
+* [rome](https://rome.tools)
+* [tsc](http://typescriptlang.org)
+* [swc](https://swc.rs)
+* [webpack](https://webpack.js.org)
 
 ## Interesting Readables
 
