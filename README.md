@@ -40,6 +40,7 @@
 
 ## Auth
 
+* [Authelia](https://www.authelia.com/)
 * [KeyCloak](https://www.keycloak.org/)
 
 ## Read
