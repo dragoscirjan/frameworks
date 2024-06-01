@@ -80,6 +80,7 @@
 * [Fastify](https://www.fastify.io/)
 * [Koa.js](https://koajs.com/)
 * [Nest.js](https://nestjs.com/)
+* [Hono](https://hono.dev/)
 
 ## Cross-Platform Desktop Apps
 
